@@ -1,0 +1,195 @@
+{
+  "offerings": [
+    {
+      "idvalue": "5737111",
+      "idtype": "PID",
+      "pid": "5737111",
+      "utcode": "UT111",
+      "gbtbrandcode": "GBT111",
+      "shortname": "PID #111 - description",
+      "longname": "PID #111 - LONG description"
+    },
+    {
+      "idvalue": "5737222",
+      "idtype": "PID",
+      "pid": "5737222",
+      "utcode": "UT222",
+      "gbtbrandcode": "GBT222",
+      "shortname": "PID #222 - description",
+      "longname": "PID #222 - LONG description"
+    },
+    {
+      "idvalue": "5737333",
+      "idtype": "PID",
+      "pid": "5737333",
+      "utcode": "UT333",
+      "gbtbrandcode": "GBT333",
+      "shortname": "PID #333 - description",
+      "longname": "PID #333 - LONG description"
+    },
+    {
+      "idvalue": "5737444",
+      "idtype": "PID",
+      "pid": "5737444",
+      "utcode": "UT444",
+      "gbtbrandcode": "GBT444",
+      "shortname": "PID #444 - description",
+      "longname": "PID #444 - LONG description"
+    },
+    {
+      "idvalue": "57371555",
+      "idtype": "PID",
+      "pid": "5737555",
+      "utcode": "UT555",
+      "gbtbrandcode": "GBT555",
+      "shortname": "PID #555 - description",
+      "longname": "PID #555 - LONG description"
+    },
+    {
+      "idvalue": "5737111-2",
+      "idtype": "PID",
+      "pid": "5737111-2",
+      "utcode": "UT111",
+      "gbtbrandcode": "GBT111",
+      "shortname": "PID #111-2 - description",
+      "longname": "PID #111-2 - LONG description"
+    }
+  ],
+  "utcodes": [
+    {
+      "utcode": "UT111",
+      "description": "UT #111 - description",
+      "utlevel30": "UT111",
+      "utlevel20": "UT111-20",
+      "utlevel17": "UT111-17",
+      "utlevel10": "UT111-10",
+      "gbtlevel30": "GBT111"
+    },
+    {
+      "utcode": "UT222",
+      "description": "UT #222 - description",
+      "utlevel30": "UT222",
+      "utlevel20": "UT222-20",
+      "utlevel17": "UT222-17",
+      "utlevel10": "UT222-10",
+      "gbtlevel30": "GBT222"
+    },
+    {
+      "utcode": "UT333",
+      "description": "UT #333 - description",
+      "utlevel30": "UT333",
+      "utlevel20": "UT333-20",
+      "utlevel17": "UT333-17",
+      "utlevel10": "UT333-10",
+      "gbtlevel30": "GBT333"
+    },
+    {
+      "utcode": "UT444",
+      "description": "UT #444 - description",
+      "utlevel30": "UT444",
+      "utlevel20": "UT444-20",
+      "utlevel17": "UT444-17",
+      "utlevel10": "UT444-10",
+      "gbtlevel30": "GBT444"
+    },
+    {
+      "utcode": "UT555",
+      "description": "UT #555 - description",
+      "utlevel30": "UT555",
+      "utlevel20": "UT555-20",
+      "utlevel17": "UT555-17",
+      "utlevel10": "UT555-10",
+      "gbtlevel30": "GBT555"
+    },
+    {
+      "utcode": "UT666",
+      "description": "UT #666 - description",
+      "utlevel30": "UT666",
+      "utlevel20": "UT666-20",
+      "utlevel17": "UT666-17",
+      "utlevel10": "UT666-10",
+      "gbtlevel30": "GBT666"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server2",
+      "author": "typicode2"
+    },
+    {
+      "id": 3,
+      "title": "json-server3",
+      "author": "typicode3"
+    },
+    {
+      "id": 8,
+      "title": "json-server8",
+      "author": "typicode8"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment2",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": {
+    "1": {
+      "id": "3",
+      "username": "Robin Wieruch"
+    },
+    "2": {
+      "id": "4",
+      "username": "David Davids"
+    },
+    "3": {
+      "id": "10",
+      "username": "Mark Davis"
+    },
+    "4": {
+      "id": "11",
+      "username": "Robert Mueller"
+    },
+    "5": {
+      "id": "22",
+      "username": "Tonald Trump"
+    }
+  },
+  "myusers": [
+    {
+      "id": "7",
+      "username": "Wobin Rieruch"
+    },
+    {
+      "id": "4",
+      "username": "avid avids"
+    },
+    {
+      "id": "20",
+      "username": "Dark Mavis"
+    },
+    {
+      "id": "31",
+      "username": "Mobert Bueller"
+    },
+    {
+      "id": "44",
+      "username": "Tonald Drump"
+    }
+  ]
+}
